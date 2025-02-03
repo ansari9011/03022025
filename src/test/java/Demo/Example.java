@@ -6,6 +6,10 @@ public class Example {
 
 		
 		System.out.println("hello java");
+
+				System.out.println("hello java");
+
+		
 	}
 
 }
